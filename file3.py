@@ -1,0 +1,6 @@
+file=open("Myfile2.txt","w")
+name=input("Enter any name :")
+surname=input("Enter Surname :")
+file.write(name+" ") 
+file.write(surname)
+file.close()

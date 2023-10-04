@@ -1,0 +1,7 @@
+101	Ram	78
+102	Shyam	88
+103	Geeta	89
+104	Sita	78.88
+105	Rama	87.9
+106	Aman	67.88
+107	Deep	78.7
